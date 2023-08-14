@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaffarimj&label=Profile%20views&color=0e75b6&style=flat" alt="jaffarimj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaffarimj" alt="jaffarimj" /></a> </p>
+<img align="right" alt="cooding" width="400" src="https://images.app.goo.gl/UPz6g4ikzxHEUMVN6"
 
 - 🔭 I’m currently working on **Carbon Capturing and Storage**
 
