@@ -1,4 +1,4 @@
-
+![logo](https://github.com/jaffarimj/jaffarimj/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Irfan Muhammad Jaffar</h1>
 <h3 align="center">Final Year Student of Bachelor's of Petroleum and Natural Gas. Additional : | Internships in Cyber Security | Artificial Intelligence | Robotics Studies</h3>
 
