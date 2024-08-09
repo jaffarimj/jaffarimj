@@ -1,12 +1,13 @@
 ![logo](https://github.com/jaffarimj/jaffarimj/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Irfan Muhammad Jaffar</h1>
-<h3 align="center">Final Year Student of Bachelor's of Petroleum and Natural Gas. Additional : | Internships in Cyber Security | Artificial Intelligence | Robotics Studies</h3>
+<h3 align="center"> Bachelor's degree in  Petroleum and Natural Gas. Additional : | Internships in Cyber Security | Artificial Intelligence | Robotics Studies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaffarimj&label=Profile%20views&color=0e75b6&style=flat" alt="jaffarimj" /> </p>
 <img align="right" alt="cooding" width="350" src="https://developer-blogs.nvidia.com/wp-content/uploads/2022/02/DS-Guide-to-Gradient-Descent_Pic5.gif"
 
-- 🔭 I’m currently working on **Carbon Capturing and Storage**
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🧠⚛ Currently working on the research paper **Revolutionizing Neurological Care: AI-Driven MRI Image Analysis for Personalized Treatment Optimization and Outcome Prediction**
+- 🔭 Degree Research thesis utilization of co2 in drilling fluid to reduce mud loss circulation in the wellbore**
+- 🌱 I learned **Artificial Intelligence**
 - 💬 Ask me about **React Python Cyber Security Artificial Intelligence and Robotics Automatic System**
 - 📫 How to reach me **irfanjaffar108@gmail.com**
 - ⚡ Fun fact **Dolphins are highly trainable creatures.**
