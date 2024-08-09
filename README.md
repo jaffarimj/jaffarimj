@@ -6,7 +6,7 @@
 <img align="right" alt="cooding" width="350" src="https://developer-blogs.nvidia.com/wp-content/uploads/2022/02/DS-Guide-to-Gradient-Descent_Pic5.gif"
 
 - 🧠⚛ Currently working on the research paper **Revolutionizing Neurological Care: AI-Driven MRI Image Analysis for Personalized Treatment Optimization and Outcome Prediction**
-- 🔭 Degree Research thesis utilization of co2 in drilling fluid to reduce mud loss circulation in the wellbore**
+- 🔭 Degree Research thesis on **utilization of co2 in drilling fluid to reduce mud loss circulation in the wellbore**
 - 🌱 I learned **Artificial Intelligence**
 - 💬 Ask me about **React Python Cyber Security Artificial Intelligence and Robotics Automatic System**
 - 📫 How to reach me **irfanjaffar108@gmail.com**
