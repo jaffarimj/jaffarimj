@@ -1,11 +1,12 @@
 ![logo](https://github.com/jaffarimj/jaffarimj/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Irfan Muhammad Jaffar</h1>
-<h3 align="center"> Bachelor's degree in  Petroleum and Natural Gas. Additional : | Internships in Cyber Security | Artificial Intelligence | Robotics Studies</h3>
+<h2 align="center">
+<h3 align="center"> Bachelor's degree in  Petroleum and Natural Gas. Additional : | SSGC Internship | OGDCL Internship | Robotics and Automatic System Internship </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaffarimj&label=Profile%20views&color=0e75b6&style=flat" alt="jaffarimj" /> </p>
 <img align="right" alt="cooding" width="350" src="https://developer-blogs.nvidia.com/wp-content/uploads/2022/02/DS-Guide-to-Gradient-Descent_Pic5.gif"
 
-- 🧠⚛ Currently working on the research paper **Revolutionizing Neurological Care: AI-Driven MRI Image Analysis for Personalized Treatment Optimization and Outcome Prediction**
+- 🧠⚛ Research paper  **Improving Drilling Efficiency by Minimizing Mud Loss in Various Rock Formations Using AI**
 - 🔭 Degree Research thesis on **Utilization of Co2 in Drilling Fluid to Reduce Mud Loss Circulation in the Wellbore**
 - 🌱 I learned **Artificial Intelligence**
 - 💬 Ask me about **React Python Cyber Security Artificial Intelligence and Robotics Automatic System**
