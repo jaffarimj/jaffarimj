@@ -1,4 +1,4 @@
-![logo](https://github.com/jaffarimj/jaffarimj/blob/main/1.png)
+![logo](https://github.com/jaffarimj/jaffarimj/blob/main/Bg%20banner.png)
 <h1 align="center">Hi 👋, I'm Irfan Muhammad Jaffar</h1>
 <h2 align="center">
 <h3 align="center"> Bachelor's degree in  Petroleum and Natural Gas. Additional : | SSGC Internship | OGDCL Internship | Robotics and Automatic System Internship </h3>
